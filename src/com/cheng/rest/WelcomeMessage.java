@@ -12,5 +12,4 @@ public class WelcomeMessage {
 		return "Hello World!";
 	}
 	
-	public void foo(){}
 }
